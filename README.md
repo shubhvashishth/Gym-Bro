@@ -6,8 +6,8 @@ This project is a squat counter that uses MediaPipe, OpenCV, and a pickle file f
 
 ## Demo
 
-https://mediapipe.dev/images/mobile/pose_world_landmarks.mp4
-https://developers.google.com/ml-kit/vision/pose-detection
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
