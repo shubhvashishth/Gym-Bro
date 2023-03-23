@@ -6,7 +6,7 @@ This project is a squat counter that uses MediaPipe, OpenCV, and a pickle file f
 
 ## Demo
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/shubhvashishth/Pose-Detection-APP/blob/main/Model.gif)
 
 ## Getting Started
 
