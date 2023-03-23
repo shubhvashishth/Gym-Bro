@@ -11,6 +11,14 @@ This project is a squat counter that uses MediaPipe, OpenCV, and a pickle file f
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
+
+## Installing
+Clone this repository:
+
+```bash
+  git clone https://github.com/shubhvashishth/Pose-Detection-APP.git
+```
+
 ## Prerequisites
 
 To deploy this project run
@@ -18,12 +26,7 @@ To deploy this project run
 ```bash
   pip install -U -r requirements.txt
 ```
-## Installing
-Clone this repository:
 
-```bash
-  git clone https://github.com/shubhvashishth/Pose-Detection-APP.git
-```
 Change into the directory:
 
 ```bash
