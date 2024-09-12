@@ -1,5 +1,5 @@
 
-# Pose Detection Squat Counter
+# Gym Bro
 
 This project is a squat counter that uses MediaPipe, OpenCV, and a pickle file for pose detection. It detects the squat position and counts the number of squats performed by the user.
 
